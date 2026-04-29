@@ -17,6 +17,12 @@ dependencies:
   - ipykernel
   # Google Cloud (BigQuery client + gcloud CLI for auth)
   - google-cloud-sdk
+  # R language + Jupyter kernel
+  - r-base
+  - r-irkernel
+  - r-tidyverse
+  - r-scales
+  - r-remotes
   - pip
   - pip:
       - google-cloud-bigquery[pandas]

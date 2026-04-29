@@ -11,6 +11,8 @@
 | `HW_FreqStats_BSky.md` | Markdown | Same assignment (reference/print version) | April 16, 2026 at 23:59 PDT |
 | `HW_POSTagger_BSky.ipynb` | Jupyter Notebook | Part-of-speech tagging via Hidden Markov Models | April 28, 2026 at 23:59 PDT |
 | `HW_POSTagger_BSky.md` | Markdown | Same assignment (reference/print version) | April 28, 2026 at 23:59 PDT |
+| `HW3_CountryCapital_WordGeometry.Rmd` | R Markdown | Word vector geometry: countries, capitals, and development | May 7, 2026 at 23:59 PDT |
+| `HW3_CountryCapital_WordGeometry.ipynb` | Jupyter Notebook (R kernel) | Same assignment — use if you prefer Jupyter over RStudio | May 7, 2026 at 23:59 PDT |
 
 ## Getting Started
 
