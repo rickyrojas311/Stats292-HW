@@ -16,9 +16,10 @@ dependencies:
   - jupyterlab
   - ipykernel
   # Google Cloud (BigQuery client + gcloud CLI for auth)
-  - google-cloud-sdk
   - pip
   - pip:
       - google-cloud-bigquery[pandas]
       - google-cloud-bigquery-storage
       - db-dtypes
+
+#google-cloud-sdk
